@@ -1,0 +1,4 @@
+{
+"debug": true,
+"rabbitmq_host": "192.168.5.71"
+}

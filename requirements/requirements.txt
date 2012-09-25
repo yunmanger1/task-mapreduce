@@ -1,0 +1,10 @@
+twisted<12.2.0
+txmongo
+#-e git+git://github.com/fiorix/mongo-async-python-driver.git#egg=txmongo
+txamqp
+txrestapi
+#-e git+git://github.com/iancmcc/txrestapi.git#egg=txrestapi
+supervisor
+simplejson
+-e git+git@gitlab.salamworld.com:sw.python.tools.git#egg=swtools
+-e git+git://github.com/bmuller/txyam.git#egg=txyam

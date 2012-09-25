@@ -1,0 +1,13 @@
+*.pyc
+*.pid
+_trial_temp
+
+deploy
+venv
+logs
+pids
+debian/*
+bin/sw-service
+profiles/available/*/supervisor.conf
+profiles/enabled
+backup/data

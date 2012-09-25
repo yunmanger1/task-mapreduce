@@ -1,0 +1,5 @@
+#!/bin/bash
+xpwd=$(cd "$( dirname "$BASH_SOURCE" )"; pwd )
+. $xpwd/../venv/bin/activate
+
+export PATH=${PATH}:$xpwd:$xpwd/../bin

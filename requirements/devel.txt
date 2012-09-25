@@ -1,0 +1,3 @@
+fabric
+Jinja2
+-e git+git@gitlab.salamworld.com:sw.python.tools.git#egg=swtools
